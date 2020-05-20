@@ -9,9 +9,13 @@ Verifico le proprietà della costante del matematico Dattatreya Ramachandra Kapr
 Il processo descritto, chiamato Operazione di Kaprekar, restituirà sempre il numero 6174 in 7 iterazioni al massimo. Una volta ottenuto il numero 6174, cioè la costante di Kaprekar, il processo restituirà sempre lo stesso valore: 6174.
 
 Esempio:
+
 Numero qualsiasi di quattro cifre: 3524
+
 5432 – 2345 = 3087
+
 8730 – 0378 = 8352
+
 8532 – 2358 = 6174
 
 Gli unici numeri a quattro cifre che attraverso l'operazione di Kaprekar non raggiungono il 6174 sono i numeri a cifra ripetuta come 1111, che daranno come risultato 0 dopo una singola iterazione.
