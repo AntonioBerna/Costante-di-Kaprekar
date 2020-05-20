@@ -17,5 +17,9 @@ Numero qualsiasi di quattro cifre: 3524
 Gli unici numeri a quattro cifre che attraverso l'operazione di Kaprekar non raggiungono il 6174 sono i numeri a cifra ripetuta come 1111, che daranno come risultato 0 dopo una singola iterazione.
 
 # Per maggiori informazioni
+
 Spiegazione online Costante di Kaprekar: YOUTUBE [IN ARRIVO]
+
 Costante di Kaprekar [Teoria]: https://it.wikipedia.org/wiki/Costante_di_Kaprekar
+
+Created By Antonio Bernardini Copyright© 2020
