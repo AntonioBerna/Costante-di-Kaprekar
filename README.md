@@ -1,4 +1,4 @@
-# Costante-di-Kaprekar-Python-
+# Costante di Kaprekar Python
 Verifico le proprietà della costante del matematico Dattatreya Ramachandra Kaprekar:
 
 1) Prendere qualsiasi numero di quattro cifre, usandone almeno due differenti.
