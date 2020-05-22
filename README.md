@@ -1,5 +1,5 @@
 # Costante di Kaprekar con Python
-Sono rportate le proprietà della costante del matematico Dattatreya Ramachandra Kaprekar:
+Sono riportate le proprietà della costante del matematico Dattatreya Ramachandra Kaprekar:
 
 1) Prendere qualsiasi numero di quattro cifre, usandone almeno due differenti.
 2) Posizionare le cifre in ordine decrescente e poi in ordine crescente così da ottenere due numeri di quattro cifre.
