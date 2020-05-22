@@ -23,7 +23,7 @@ Gli unici numeri a quattro cifre che attraverso l'operazione di Kaprekar non rag
 
 # Per maggiori informazioni
 
-Spiegazione online Costante di Kaprekar: YOUTUBE [IN ARRIVO]
+Spiegazione online Costante di Kaprekar: https://youtu.be/h2KiavjysZU
 
 Costante di Kaprekar [Teoria]: https://it.wikipedia.org/wiki/Costante_di_Kaprekar
 
