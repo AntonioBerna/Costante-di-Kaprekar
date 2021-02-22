@@ -27,4 +27,4 @@ Spiegazione online Costante di Kaprekar: https://youtu.be/h2KiavjysZU
 
 Costante di Kaprekar [Teoria]: https://it.wikipedia.org/wiki/Costante_di_Kaprekar
 
-Created By Antonio Bernardini Copyright© 2020
+Created By Antonio Bernardini Copyright© 2021
